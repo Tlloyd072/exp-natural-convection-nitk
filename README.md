@@ -18,7 +18,20 @@ Fill a brief description of this experiment here
 
 ### Contributors List
 
-SrNo | Name | Faculty or Student | Department| Institute | Email id
-:--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+SrNo | Name | Faculty or Student | Department| Institute | Email id | Status
+:--|:--|:--|:--|:--|:--|:--|
+1 | . | . | . | . | .|.
+2 | . | . | . | . | .|.
+
+
+### Here are my contributions towards this repository
+
+<b>status | <b> Enter your  status here
+:--|:--|
+<b> Status number |  <b> here goes the status number
+<b> Status name |	<b> here goes the status name
+<b> Discipline <b>  here goes the details of the discipline capatured at the top, who now conducts the experiment.
+
+
+The outcome should be able to display the status of the experiment conducted, experiment number, and the person who conducted the experiment
+
